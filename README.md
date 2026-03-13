@@ -1,16 +1,133 @@
-# React + Vite
+# 👩‍💻 Chhavi Chaudhary – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple?logo=vite)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black?logo=vercel)
 
-Currently, two official plugins are available:
+Welcome to my **personal portfolio website** built using **React**.
+This portfolio showcases my **projects, technical skills, and contact details** as a Computer Science student passionate about **full-stack web development**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 **Live Website:**
+https://chhavi-portfolio-eta.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 🚀 Features
 
-## Expanding the ESLint configuration
+* Modern and responsive UI
+* Built using React with fast Vite build tool
+* Showcases projects and skills
+* Smooth navigation and clean design
+* Fully responsive (mobile + desktop)
+* Deployed using Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 🛠 Tech Stack
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+
+**Tools & Deployment**
+
+* Vite
+* Git & GitHub
+* Vercel
+
+---
+
+# 📂 Project Structure
+
+```
+portfolio/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+# ⚙️ Installation & Setup
+
+Clone the repository
+
+```
+git clone https://github.com/your-username/chhaviPortfolio.git
+```
+
+Move into the project directory
+
+```
+cd chhavi-portfolio
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run the development server
+
+```
+npm run dev
+```
+
+The app will run at:
+
+```
+http://localhost:5173
+```
+
+---
+
+# 📦 Build for Production
+
+```
+npm run build
+```
+
+---
+
+# 🌍 Deployment
+
+This project is deployed using **Vercel**.
+
+Steps to deploy:
+
+1. Push the project to GitHub
+2. Import the repository into Vercel
+3. Click **Deploy**
+
+---
+
+# 👩‍🎓 About Me
+
+I am **Chhavi **, a **B.Tech Computer Science Engineering student** passionate about building web applications and improving my skills in **React, JavaScript, and Full-Stack Development**.
+
+I enjoy solving **DSA problems**, building projects, and learning new technologies.
+
+---
+
+# 📬 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/chhavichaudhary13/
+💻 GitHub: https://github.com/chhavi167
+📧 Email: chhavirathi246@gmail.com
+
+---
+
+⭐ If you like this project, consider giving it a **star** on GitHub!
