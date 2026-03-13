@@ -116,7 +116,7 @@ Steps to deploy:
 
 # 👩‍🎓 About Me
 
-I am **Chhavi **, a **B.Tech Computer Science Engineering student** passionate about building web applications and improving my skills in **React, JavaScript, and Full-Stack Development**.
+I am **Chhavi**, a **B.Tech Computer Science Engineering student** passionate about building web applications and improving my skills in **React, JavaScript, and Full-Stack Development**.
 
 I enjoy solving **DSA problems**, building projects, and learning new technologies.
 
